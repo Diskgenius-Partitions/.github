@@ -1,5 +1,3 @@
-Match the capacity with the physical drive, and unplug extras. An encrypted volume stays closed without its key. Close the map if you were only looking.
-
 # DiskGenius - Partitions on a Disk You Own
 
 DiskGenius shows the partitions on a disk in this computer and can resize or copy a volume after you confirm it. Those operations can erase data. Use it on drives you own, after a backup that you have actually opened. It does not unlock BitLocker or any other encryption when you do not have the key.
